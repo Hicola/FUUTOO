@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,moomoo.com
 # 静态资源 / CDN
 DOMAIN-SUFFIX,futuimg.com
 DOMAIN-SUFFIX,futu-static.com
+DOMAIN-SUFFIX,futustatic.com
 
 # 兜底关键词（误伤风险低）
 DOMAIN-KEYWORD,futunn
