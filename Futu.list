@@ -1,0 +1,19 @@
+# Futu / Moomoo (富途牛牛)
+# 用法: RULE-SET, <raw链接>, 策略名
+# 最后更新: 2026-06-12
+
+# 主站及行情
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futuoa.com
+
+# 海外版 Moomoo
+DOMAIN-SUFFIX,moomoo.com
+
+# 静态资源 / CDN
+DOMAIN-SUFFIX,futuimg.com
+DOMAIN-SUFFIX,futu-static.com
+
+# 兜底关键词（误伤风险低）
+DOMAIN-KEYWORD,futunn
