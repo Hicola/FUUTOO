@@ -10,6 +10,11 @@ DOMAIN-SUFFIX,futuoa.com
 DOMAIN-SUFFIX,fututrade.com
 DOMAIN-SUFFIX,futuhn.com
 
+IP-CIDR,43.153.0.0/16,no-resolve
+IP-CIDR,170.106.0.0/16,no-resolve
+IP-CIDR,101.32.0.0/16,no-resolve
+IP-CIDR,49.51.0.0/16,no-resolve
+
 # 海外版 Moomoo
 DOMAIN-SUFFIX,moomoo.com
 
